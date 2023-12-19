@@ -1,0 +1,22 @@
+.signUpAs {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.property1noAction {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 10px rgba(23, 26, 31, 0.5), 0 0 1px rgba(23, 26, 31, 0.07);
+  border: 0.5px solid var(--color-mediumblue);
+  box-sizing: border-box;
+  width: 164px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-23xl);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--primary);
+  font-family: var(--font-poppins);
+}

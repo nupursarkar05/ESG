@@ -1,0 +1,132 @@
+.nexioProjectsIs {
+  position: absolute;
+  top: 142px;
+  left: calc(50% - 412.5px);
+  font-size: var(--font-size-45xl);
+  line-height: 66px;
+  display: inline-block;
+  color: var(--color-gray-100);
+  width: 825px;
+}
+.esgIsA {
+  margin: 0;
+}
+.ourExpertsSupportContainer {
+  position: absolute;
+  top: 264px;
+  left: calc(50% - 453.5px);
+  line-height: 35px;
+  display: inline-block;
+  width: 907px;
+}
+.signUpAs {
+  position: absolute;
+  top: 2287px;
+  left: 1220px;
+  font-size: var(--font-size-sm);
+  line-height: 22px;
+  font-weight: 500;
+  color: var(--primary);
+  text-align: left;
+}
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--primary);
+  width: 80px;
+  height: 78px;
+}
+.e,
+.impactOnEnvironment {
+  position: absolute;
+  top: 21px;
+  left: 97px;
+  line-height: 35px;
+  font-weight: 600;
+}
+.e {
+  top: 22px;
+  left: 26px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 27px;
+  height: 34px;
+}
+.ellipseParent,
+.section2Child {
+  position: absolute;
+  top: 462px;
+  left: 74px;
+  width: 384px;
+  height: 78px;
+}
+.section2Child {
+  left: 585px;
+  border-radius: 50%;
+  background-color: var(--primary);
+  width: 80px;
+}
+.s,
+.socialImpact {
+  position: absolute;
+  top: 483px;
+  left: 685px;
+  line-height: 35px;
+  font-weight: 600;
+}
+.s {
+  top: 484px;
+  left: 612px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 27px;
+  height: 34px;
+}
+.section2Item {
+  position: absolute;
+  top: 462px;
+  left: 1007px;
+  border-radius: 50%;
+  background-color: var(--primary);
+  width: 80px;
+  height: 78px;
+}
+.overallGovernance {
+  position: absolute;
+  top: 483px;
+  left: 1109px;
+  line-height: 35px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.g,
+.section2 {
+  position: absolute;
+}
+.g {
+  top: 484px;
+  left: 1034px;
+  font-size: var(--font-size-29xl);
+  line-height: 35px;
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 27px;
+  height: 34px;
+}
+.section2 {
+  top: 972px;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  width: 1439px;
+  height: 757px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}

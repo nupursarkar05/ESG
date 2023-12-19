@@ -1,0 +1,263 @@
+.div,
+.resources,
+.solutions {
+  position: absolute;
+  top: 876px;
+  left: 85px;
+  line-height: 66px;
+}
+.div,
+.solutions {
+  top: 100px;
+  left: 92px;
+}
+.div {
+  top: 1997.8px;
+  left: 241px;
+  font-size: var(--font-size-base);
+  line-height: 26px;
+  font-family: var(--font-manrope);
+}
+.section3Child {
+  position: absolute;
+  top: 161px;
+  left: 1358.7px;
+  border-radius: 50%;
+  background-color: var(--color-mediumslateblue-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 40.7px;
+  height: 40.7px;
+  transform: rotate(-179.58deg);
+  transform-origin: 0 0;
+}
+.section3Item {
+  position: absolute;
+  top: 140px;
+  left: calc(50% + 609.2px);
+  width: 23.5px;
+  height: 0.2px;
+  object-fit: contain;
+}
+.signUpAs {
+  position: absolute;
+  top: 129px;
+  left: 1220px;
+  font-size: var(--font-size-sm);
+  line-height: 22px;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--primary);
+}
+.getInTouch {
+  position: absolute;
+  top: 188px;
+  left: 92px;
+  font-size: var(--font-size-28xl);
+  line-height: 66px;
+  display: inline-block;
+  font-family: var(--font-lexend);
+  color: var(--color-gray-100);
+  width: 505px;
+}
+.termsAndConditions {
+  position: absolute;
+  top: 906px;
+  left: 91px;
+  font-size: var(--font-size-xs);
+  line-height: 26px;
+}
+.nexioProjectsFrance {
+  position: absolute;
+  top: 185px;
+  left: 1055px;
+  font-size: var(--font-size-xl);
+  line-height: 30px;
+  font-family: var(--font-lexend);
+  color: var(--color-gray-100);
+}
+.designedByEmbacypowered,
+.nexioProjectsHq {
+  position: absolute;
+  top: 913px;
+  left: 1049px;
+  font-size: var(--font-size-xs);
+  line-height: 22px;
+}
+.nexioProjectsHq {
+  top: 185px;
+  left: 740px;
+  font-size: var(--font-size-xl);
+  line-height: 30px;
+  font-family: var(--font-lexend);
+  color: var(--color-gray-100);
+}
+.infoFrnexioprojectscom,
+.infoNlnexioprojectscom {
+  position: absolute;
+  top: 298px;
+  left: 740px;
+  line-height: 26px;
+}
+.infoFrnexioprojectscom {
+  left: 1053px;
+  color: var(--color-lightslategray);
+}
+.div1,
+.div2,
+.esgRatings6,
+.rotterdamtheNetherlands {
+  position: absolute;
+  top: 232px;
+  left: 740px;
+  line-height: 26px;
+}
+.div1,
+.div2,
+.esgRatings6 {
+  top: 532px;
+  left: 92px;
+}
+.div1,
+.div2 {
+  top: 267px;
+  left: 740px;
+}
+.div2 {
+  left: 1055px;
+}
+.strotegyDovolopmen {
+  position: absolute;
+  top: 642px;
+  left: 92px;
+  font-size: var(--font-size-sm);
+  line-height: 22px;
+}
+.esgReporting,
+.valbonnefrance {
+  position: absolute;
+  top: 232px;
+  left: 1053px;
+  line-height: 26px;
+}
+.esgReporting {
+  top: 570px;
+  left: 92px;
+  font-size: var(--font-size-sm);
+  line-height: 22px;
+}
+.climteServices {
+  top: 604px;
+  left: 92px;
+}
+.climteServices,
+.nexioProjects,
+.ourClnts {
+  position: absolute;
+  line-height: 26px;
+}
+.nexioProjects {
+  top: 796px;
+  left: 100px;
+  font-size: var(--font-size-sm);
+}
+.ourClnts {
+  top: 608.8px;
+  left: 419px;
+}
+.aboutUs,
+.contoatus,
+.coreers,
+.ourPartners,
+.ourTearn {
+  position: absolute;
+  top: 569.8px;
+  left: 419px;
+  font-size: var(--font-size-sm);
+  line-height: 22px;
+}
+.aboutUs,
+.contoatus,
+.coreers,
+.ourTearn {
+  top: 647.3px;
+}
+.aboutUs,
+.contoatus,
+.coreers {
+  top: 725.3px;
+}
+.aboutUs,
+.coreers {
+  top: 687px;
+  font-size: var(--font-size-xs);
+  line-height: 20px;
+}
+.aboutUs {
+  top: 534px;
+  font-size: var(--font-size-sm);
+  line-height: 22px;
+}
+.contactUs {
+  position: absolute;
+  top: calc(50% - 14px);
+  left: calc(50% - 46px);
+  line-height: 28px;
+}
+.button6 {
+  position: absolute;
+  top: 354px;
+  left: 92px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-mediumslateblue-100);
+  width: 270px;
+  height: 52px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.footer {
+  position: absolute;
+  top: 1652px;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  width: 1436px;
+  height: 1016px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+  font-family: var(--font-manrope);
+}
+.section3Inner {
+  position: absolute;
+  top: 930px;
+  left: 1358.7px;
+  border-radius: 50%;
+  background-color: var(--color-mediumslateblue-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 40.7px;
+  height: 40.7px;
+  transform: rotate(-179.58deg);
+  transform-origin: 0 0;
+}
+.arrowIcon {
+  position: absolute;
+  top: 909px;
+  left: calc(50% + 609.2px);
+  width: 23.5px;
+  height: 0.2px;
+  object-fit: contain;
+}
+.section3 {
+  position: absolute;
+  top: 7912px;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  width: 1436px;
+  height: 1652px;
+  text-align: left;
+  font-size: var(--font-size-28xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-lexend);
+}

@@ -1,0 +1,26 @@
+.property1noActionChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-thistle);
+  width: 123px;
+  height: 44px;
+}
+.viewMore {
+  position: absolute;
+  top: 9px;
+  left: 20px;
+  line-height: 26px;
+  font-weight: 600;
+}
+.property1noAction {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(10px);
+  width: 123px;
+  height: 44px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-poppins);
+}

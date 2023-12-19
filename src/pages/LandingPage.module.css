@@ -1,0 +1,302 @@
+.nvironment {
+  font-size: var(--font-size-45xl);
+}
+.nexioProjectsIsContainer {
+  position: absolute;
+  top: 125px;
+  left: calc(50% - 558px);
+  line-height: 66px;
+  display: inline-block;
+  color: var(--color-gray-100);
+  width: 825px;
+  font-size: var(--font-size-77xl);
+}
+.signUpAs {
+  position: absolute;
+  top: 2287px;
+  left: 1220px;
+  font-size: var(--font-size-sm);
+  line-height: 22px;
+  font-weight: 500;
+  color: var(--primary);
+}
+.section2Child {
+  position: absolute;
+  top: 326px;
+  left: 162px;
+  border-radius: 50%;
+  background-color: var(--primary);
+  width: 80px;
+  height: 78px;
+}
+.climateImpact {
+  position: absolute;
+  top: 347px;
+  left: 259px;
+  line-height: 35px;
+  font-weight: 600;
+  text-align: center;
+}
+.div,
+.thisIncludesIts {
+  position: absolute;
+  line-height: 35px;
+  display: inline-block;
+}
+.div {
+  top: 348px;
+  left: 188px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  color: var(--color-white);
+  text-align: center;
+  width: 27px;
+  height: 34px;
+}
+.thisIncludesIts {
+  top: 404px;
+  left: 259px;
+  font-size: var(--font-size-5xl);
+  width: 487px;
+}
+.section2Item {
+  position: absolute;
+  top: 630px;
+  left: 1185px;
+  border-radius: 50%;
+  background-color: var(--primary);
+  width: 80px;
+  height: 78px;
+}
+.resourceUse {
+  top: 651px;
+  left: 944px;
+  font-weight: 600;
+  text-align: right;
+  width: 219px;
+}
+.div1,
+.effortsToMinimize,
+.resourceUse {
+  position: absolute;
+  line-height: 35px;
+  display: inline-block;
+}
+.div1 {
+  top: 651px;
+  left: 1211px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  color: var(--color-white);
+  text-align: center;
+  width: 27px;
+  height: 34px;
+}
+.effortsToMinimize {
+  top: 708px;
+  left: 640px;
+  font-size: var(--font-size-5xl);
+  text-align: right;
+  width: 523px;
+}
+.section2Inner {
+  position: absolute;
+  top: 918px;
+  left: 162px;
+  border-radius: 50%;
+  background-color: var(--primary);
+  width: 80px;
+  height: 78px;
+}
+.pollutionAndWaste {
+  position: absolute;
+  top: 939px;
+  left: 259px;
+  line-height: 35px;
+  font-weight: 600;
+}
+.div2,
+.thisInvolvesPractices {
+  position: absolute;
+  line-height: 35px;
+  display: inline-block;
+}
+.div2 {
+  top: 940px;
+  left: 188px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  color: var(--color-white);
+  text-align: center;
+  width: 27px;
+  height: 34px;
+}
+.thisInvolvesPractices {
+  top: 996px;
+  left: 259px;
+  font-size: var(--font-size-5xl);
+  width: 487px;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 1204px;
+  left: 1185px;
+  border-radius: 50%;
+  background-color: var(--primary);
+  width: 80px;
+  height: 78px;
+}
+.biodiversity {
+  top: 1225px;
+  left: 937px;
+  font-weight: 600;
+  text-align: right;
+  width: 219px;
+}
+.biodiversity,
+.div3,
+.institutionsAreEvaluated {
+  position: absolute;
+  line-height: 35px;
+  display: inline-block;
+}
+.div3 {
+  top: 1226px;
+  left: 1211px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  color: var(--color-white);
+  text-align: center;
+  width: 27px;
+  height: 34px;
+}
+.institutionsAreEvaluated {
+  top: 1282px;
+  left: 585px;
+  font-size: var(--font-size-5xl);
+  text-align: right;
+  width: 578px;
+}
+.image3Icon,
+.image4Icon {
+  position: absolute;
+  top: 216px;
+  left: 977px;
+  width: 373px;
+  height: 332px;
+  object-fit: cover;
+}
+.image4Icon {
+  top: 1088px;
+  left: 117px;
+  width: 285px;
+  height: 440px;
+}
+.section2 {
+  position: absolute;
+  top: 1729px;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  width: 1440px;
+  height: 1835px;
+}
+.employeeRelations {
+  position: absolute;
+  top: 347px;
+  left: 262px;
+  line-height: 35px;
+  font-weight: 600;
+  text-align: center;
+}
+.section2Child2 {
+  position: absolute;
+  top: 610px;
+  left: 1185px;
+  border-radius: 50%;
+  background-color: var(--primary);
+  width: 80px;
+  height: 78px;
+}
+.div5,
+.diversityAndInclusion {
+  position: absolute;
+  top: 631px;
+  left: 746px;
+  line-height: 35px;
+  font-weight: 600;
+  text-align: right;
+  display: inline-block;
+  width: 417px;
+}
+.div5 {
+  top: 632px;
+  left: 1211px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  text-align: center;
+  width: 27px;
+  height: 34px;
+}
+.thisInvolvesPromoting {
+  top: 688px;
+  left: 582px;
+  font-size: var(--font-size-5xl);
+  text-align: right;
+  width: 581px;
+}
+.humanRights,
+.thisIncludesPhilanthropy,
+.thisInvolvesPromoting {
+  position: absolute;
+  line-height: 35px;
+  display: inline-block;
+}
+.thisIncludesPhilanthropy {
+  top: 996px;
+  left: 259px;
+  font-size: var(--font-size-5xl);
+  width: 588px;
+}
+.humanRights {
+  top: 1225px;
+  left: 847px;
+  font-weight: 600;
+  text-align: right;
+  width: 309px;
+}
+.image5Icon,
+.image6Icon {
+  position: absolute;
+  top: 253px;
+  left: 872px;
+  width: 386px;
+  height: 258px;
+  object-fit: cover;
+}
+.image6Icon {
+  top: 1204px;
+  left: 102px;
+  width: 280px;
+  height: 280px;
+}
+.section21 {
+  position: absolute;
+  top: 3564px;
+  left: 0;
+  background-color: var(--color-ghostwhite);
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  width: 1440px;
+  height: 1835px;
+}
+.landingPage {
+  position: relative;
+  background-color: var(--primary);
+  box-shadow: 0 3px 6px rgba(18, 15, 40, 0.12);
+  width: 100%;
+  height: 10580px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,268 @@
+.overnance {
+  font-size: var(--font-size-45xl);
+}
+.nexioProjectsIsContainer {
+  position: absolute;
+  top: 125px;
+  left: calc(50% - 558px);
+  line-height: 66px;
+  display: inline-block;
+  color: var(--color-gray-100);
+  width: 825px;
+  font-size: var(--font-size-77xl);
+}
+.signUpAs {
+  position: absolute;
+  top: 2287px;
+  left: 1220px;
+  font-size: var(--font-size-sm);
+  line-height: 22px;
+  font-weight: 500;
+  color: var(--primary);
+}
+.section2Child {
+  position: absolute;
+  top: 326px;
+  left: 162px;
+  border-radius: 50%;
+  background-color: var(--primary);
+  width: 80px;
+  height: 78px;
+}
+.employeeRelations {
+  position: absolute;
+  top: 347px;
+  left: 262px;
+  line-height: 35px;
+  font-weight: 600;
+  text-align: center;
+}
+.div,
+.howACompany {
+  position: absolute;
+  line-height: 35px;
+  display: inline-block;
+}
+.div {
+  top: 348px;
+  left: 188px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  color: var(--color-white);
+  text-align: center;
+  width: 27px;
+  height: 34px;
+}
+.howACompany {
+  top: 404px;
+  left: 259px;
+  font-size: var(--font-size-5xl);
+  width: 487px;
+}
+.section2Item {
+  position: absolute;
+  top: 610px;
+  left: 1185px;
+  border-radius: 50%;
+  background-color: var(--primary);
+  width: 80px;
+  height: 78px;
+}
+.diversityAndInclusion {
+  top: 631px;
+  left: 746px;
+  font-weight: 600;
+  text-align: right;
+  width: 417px;
+}
+.div1,
+.diversityAndInclusion,
+.thisInvolvesPromoting {
+  position: absolute;
+  line-height: 35px;
+  display: inline-block;
+}
+.div1 {
+  top: 632px;
+  left: 1211px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  color: var(--color-white);
+  text-align: center;
+  width: 27px;
+  height: 34px;
+}
+.thisInvolvesPromoting {
+  top: 688px;
+  left: 582px;
+  font-size: var(--font-size-5xl);
+  text-align: right;
+  width: 581px;
+}
+.section2Inner {
+  position: absolute;
+  top: 918px;
+  left: 162px;
+  border-radius: 50%;
+  background-color: var(--primary);
+  width: 80px;
+  height: 78px;
+}
+.communityEngagement {
+  position: absolute;
+  top: 939px;
+  left: 259px;
+  line-height: 35px;
+  font-weight: 600;
+}
+.div2,
+.thisIncludesPhilanthropy {
+  position: absolute;
+  line-height: 35px;
+  display: inline-block;
+}
+.div2 {
+  top: 940px;
+  left: 188px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  color: var(--color-white);
+  text-align: center;
+  width: 27px;
+  height: 34px;
+}
+.thisIncludesPhilanthropy {
+  top: 996px;
+  left: 259px;
+  font-size: var(--font-size-5xl);
+  width: 588px;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 1204px;
+  left: 1185px;
+  border-radius: 50%;
+  background-color: var(--primary);
+  width: 80px;
+  height: 78px;
+}
+.humanRights {
+  top: 1225px;
+  left: 847px;
+  font-weight: 600;
+  text-align: right;
+  width: 309px;
+}
+.div3,
+.humanRights,
+.thisInvolvesEnsuring {
+  position: absolute;
+  line-height: 35px;
+  display: inline-block;
+}
+.div3 {
+  top: 1226px;
+  left: 1211px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  color: var(--color-white);
+  text-align: center;
+  width: 27px;
+  height: 34px;
+}
+.thisInvolvesEnsuring {
+  top: 1282px;
+  left: 585px;
+  font-size: var(--font-size-5xl);
+  text-align: right;
+  width: 578px;
+}
+.image5Icon,
+.image6Icon {
+  position: absolute;
+  top: 253px;
+  left: 872px;
+  width: 386px;
+  height: 258px;
+  object-fit: cover;
+}
+.image6Icon {
+  top: 1204px;
+  left: 102px;
+  width: 280px;
+  height: 280px;
+}
+.driveCollectionAction {
+  margin: 0;
+}
+.driveCollectionActionfosterContainer {
+  position: absolute;
+  top: 189px;
+  left: 165px;
+  line-height: 40px;
+  text-transform: capitalize;
+  font-weight: 600;
+  display: inline-block;
+  width: 493px;
+}
+.ourGoal1 {
+  position: absolute;
+  top: 109px;
+  left: 164px;
+  font-size: var(--font-size-45xl);
+  line-height: 46px;
+  text-transform: capitalize;
+  font-family: var(--font-lexend);
+}
+.image7Icon {
+  position: absolute;
+  top: 132px;
+  left: 658px;
+  width: 810px;
+  height: 571px;
+  object-fit: cover;
+}
+.container67 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  width: 1440px;
+  height: 678px;
+}
+.durmissionisToEmpower {
+  position: absolute;
+  top: 343px;
+  left: 165px;
+  font-size: var(--font-size-5xl);
+  line-height: 36px;
+  display: inline-block;
+  width: 600px;
+}
+.ourGoal,
+.section2 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.ourGoal {
+  top: 1835px;
+  background-color: var(--color-ghostwhite);
+  box-shadow: 0 3px 6px rgba(18, 15, 40, 0.12);
+  height: 678px;
+  overflow: hidden;
+  font-size: var(--font-size-19xl);
+  color: var(--color-gray-100);
+}
+.section2 {
+  top: 5399px;
+  background-color: var(--color-white);
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 0 1px rgba(23, 26, 31, 0.07);
+  height: 1835px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-poppins);
+}

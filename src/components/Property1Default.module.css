@@ -1,0 +1,33 @@
+.handTypingOnLaptopWithPla {
+  position: relative;
+  border-radius: var(--br-7xs);
+  width: 266px;
+  height: 167px;
+  object-fit: cover;
+}
+.lberonsNosRhpauine {
+  position: relative;
+  line-height: 26px;
+  font-weight: 600;
+  display: inline-block;
+  width: 278px;
+}
+.property1default {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-ghostwhite);
+  box-shadow: 0 0 10px rgba(23, 26, 31, 0.25);
+  border: 1px solid var(--primary);
+  box-sizing: border-box;
+  width: 347px;
+  height: 363px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-24xl) var(--padding-22xl);
+  gap: var(--gap-27xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

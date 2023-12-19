@@ -1,0 +1,37 @@
+.b,
+.june {
+  position: absolute;
+  top: 38px;
+  left: 37px;
+  line-height: 72px;
+}
+.june {
+  top: 110px;
+  font-size: var(--font-size-5xl);
+  line-height: 36px;
+}
+.eventDescriptionGoes {
+  margin: 0;
+}
+.amPm0rueDeCnngContainer {
+  position: absolute;
+  top: 182px;
+  left: 37px;
+  font-size: var(--font-size-lg);
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+  width: 223px;
+  height: 114px;
+}
+.property1default {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-ghostwhite);
+  box-shadow: 0 0 10px rgba(23, 26, 31, 0.25);
+  width: 347px;
+  height: 363px;
+  text-align: left;
+  font-size: var(--font-size-32xl);
+  color: var(--color-mediumslateblue-100);
+  font-family: var(--font-poppins);
+}
